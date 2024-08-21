@@ -1,0 +1,10 @@
+{
+  "namespace": "com.a35ksyd.kafka.model",
+  "type": "record",
+  "name": "DemoModel",
+  "fields": [
+    { "name": "val1", "type": "int" },
+    { "name": "val2", "type": "int" },
+    { "name": "op", "type": "string" }
+  ]
+}
